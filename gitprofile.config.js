@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'Bhawna1203', 
+    username: 'ConnectBhawna', 
     sortBy: 'stars',
     limit: 10, 
     exclude: {
@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'bhawna-chauhan-00a32a200',
+    linkedin: 'ConnectBhawna',
     twitter: 'ConnectBhawna',
     facebook: '',
     instagram: '',
@@ -20,9 +20,9 @@ const config = {
     medium: '',
     dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://linktr.ee/bhawna1203',
+    website: 'https://linktr.ee/ConnectBhawna',
     phone: '',
-    email: 'bhawnabc2002@gmail.com',
+    email: 'bhawnachoudhary1203@gmail.com',
   },
   resume: {
     fileUrl:
