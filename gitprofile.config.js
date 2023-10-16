@@ -14,19 +14,19 @@ const config = {
     linkedin: 'ConnectBhawna',
     twitter: 'ConnectBhawna',
     facebook: '',
-    instagram: '',
+    instagram: 'connect.bhawna',
     dribbble: '',
     behance: '',
-    medium: '',
-    dev: '',
+    medium: 'ConnectBhawna',
+    dev: 'ConnectBhawna',
     stackoverflow: '', // format: userid/username
     website: 'https://linktr.ee/ConnectBhawna',
     phone: '',
-    email: 'bhawnachoudhary1203@gmail.com',
+    email: 'bhawnabc2002@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.overleaf.com/read/gcckzcbdsxqv', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.overleaf.com/read/xwzbqzstfyms', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Kotlin',
@@ -38,19 +38,26 @@ const config = {
     'Github',
     'Python',
     'NextJs',
+    'ReactJs',
     'Docker',
     'React',
     'Tezos',
-    'Solana',
     'Tailwind',
-    'Polygon',
+    'NodeJs',
   ],
   experiences: [
+    {
+      company: 'MonadoXR',
+      position: 'C++ Developer (Part Time)',
+      from: 'April 2023',
+      to: 'Present',
+      companyLink: 'https://monado.dev/',
+    },
     {
       company: 'UNSNARL',
       position: 'Developer Relations Intern',
       from: 'Jan 2023',
-      to: 'Present',
+      to: 'Apr 2023',
       companyLink: 'https://www.unsnarl.io/',
     },
     {
@@ -78,10 +85,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Hansraj University of Delhi',
-      degree: 'Bachelor of Science in Computer Science',
+      institution: 'University of Delhi',
+      degree: 'Dual Degree in Computer Science',
       from: '2021',
-      to: '2024',
+      to: '2025',
     },
     {
       institution: 'Rajkiya Pratibha Vikas Vidyalaya',
