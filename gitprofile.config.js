@@ -54,18 +54,11 @@ const config = {
       companyLink: 'https://shebuilds.tech/',
     },
     {
-      company: 'XROS-Fellowship(MonadoXR)',
-      position: 'Software Developer Intern',
-      from: 'May 2023',
-      to: 'Sept 2023',
-      companyLink: 'https://xrosfellowship.ficci.in/',
-    },
-    {
-      company: 'Linux Foundation Mentorship',
-      position: 'Software Developer Intern',
-      from: 'March 2023',
-      to: 'May 2023',
-      companyLink: 'https://lfx.linuxfoundation.org/tools/mentorship/',
+      company: 'MonadoXR',
+      position: 'Software Developer ',
+      from: 'Sept 2023',
+      to: 'Aug 2024',
+      companyLink: 'https://monado.dev/',
     },
     {
       company: 'Major League Hacking Fellowship',
@@ -74,6 +67,14 @@ const config = {
       to: 'Nov 2022',
       companyLink: 'https://fellowship.mlh.io/',
     },
+    {
+      company: 'Linux Foundation Mentorship',
+      position: 'Software Developer Intern',
+      from: 'March 2023',
+      to: 'May 2023',
+      companyLink: 'https://lfx.linuxfoundation.org/tools/mentorship/',
+    },
+
   ],
   /* certifications: [
     {
@@ -85,10 +86,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'University of Delhi',
+      institution: 'Hansraj University of Delhi',
       degree: 'Dual Degree in Computer Science',
       from: '2021',
-      to: '2025',
+      to: '2024',
     },
     {
       institution: 'Rajkiya Pratibha Vikas Vidyalaya',
